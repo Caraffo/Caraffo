@@ -10,7 +10,6 @@ Soy un estudiante de quinto año de Ingeniería de Sistemas en la Universidad Na
 - **JavaScript**
 - **HTML**
 - **CSS**
-- **Python**
   
 ### 🌐 Idiomas:
 - Español (Nativo) 🇦🇷
@@ -18,7 +17,7 @@ Soy un estudiante de quinto año de Ingeniería de Sistemas en la Universidad Na
 
 ## 👋 Hi, I'm Franco Caraffo
 
-I am a fourth-year Systems Engineering student at the National University of Central Buenos Aires (UNICEN). At 23 years old, I have a strong background in programming and software development, having acquired skills in multiple languages and technologies.
+I am a fifth-year Systems Engineering student at the National University of Central Buenos Aires (UNICEN). At 23 years old, I have a strong background in programming and software development, having acquired skills in multiple languages and technologies.
 
 ### 🛠️ Technical Skills:
 - **Flutter**
@@ -28,7 +27,6 @@ I am a fourth-year Systems Engineering student at the National University of Cen
 - **JavaScript**
 - **HTML**
 - **CSS**
-- **Python**
 
 ### 🌐 Languages:
 - Spanish (Native) 🇦🇷
